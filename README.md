@@ -65,55 +65,59 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 <p align="center"><strong><img src="https://i.imgur.com/gYFuxyK.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>TEXT
+<p align="center"><strong>Create the credentials and write them down(you can use a fake email). Then click "access".
+<br />
+
+<p>
+<p align="center"><strong><img src="https://i.imgur.com/wiJxgz3.png" height="80%" width="80%" alt="Post Install Steps"/>
+</p>
+<p>
+<p align="center"><strong>Click the "select department" dropdown and choose "sysadmins", then on the "select role" dropdown choose "supreme admin". under "teams" select "online banking", and click "create".
+</p>
+<br />
+
+<p>
+<p align="center"><strong><img src="https://i.imgur.com/3SKFkEt.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/DCmW1Wb.png" height="80%" width="80%" alt="Post Install Steps"/>
+</p>
+<p>
+<p align="center"><strong> Create a second account. Under "access" Click the "select department" dropdown and choose "support", then on the "select role" dropdown choose "view only" and click "create".
+<br />
+
+<p>
+<p align="center"><strong><img src="https://i.imgur.com/M2im4ls.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/JhSjwHM.png" height="80%" width="80%" alt="Post Install Steps"/>
+</p>
+<p>
+<p align="center"><strong>Head back to the agents tab click one of the users you created, then click "set password. Uncheck the 2 boxes and type in a password, be sure to write it down, then click update. Do the same for the other account you created aswell.
 <br />
 
 <p>
 <p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>TEXT
+<p align="center"><strong>Look to the top right and click "agent panel"
 </p>
 <br />
 
 <p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/ojKa8Qu.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>TEXT
+<p align="center"><strong>Click "users", then "add a user". Then create a user with a fake email, and click "add user".
 <br />
 
 <p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/t2pTSdQ.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/6QntZDN.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>TEXT
+<p align="center"><strong>Now head back to "admin panel", click "manage", "SLA", and "add new SLA plan".
 <br />
 
 <p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
-</p>
-<p>
-<p align="center"><strong>TEXT
-</p>
-<br />
-
-<p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
-</p>
-<p>
-<p align="center"><strong>TEXT
-<br />
-
-<p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
-</p>
-<p>
-<p align="center"><strong>TEXT
-<br />
-
-<p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/HXbBskk.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/aNYvTXa.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
 <p align="center"><strong>TEXT
