@@ -93,7 +93,7 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 <br />
 
 <p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/KUZMw13.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
 <p align="center"><strong>Look to the top right and click "agent panel"
@@ -118,44 +118,29 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 <p>
 <p align="center"><strong><img src="https://i.imgur.com/HXbBskk.png" height="80%" width="80%" alt="Post Install Steps"/>
 <p align="center"><strong><img src="https://i.imgur.com/aNYvTXa.png" height="80%" width="80%" alt="Post Install Steps"/>
+
 </p>
 <p>
-<p align="center"><strong>TEXT
-</p>
+<p align="center"><strong>We're going to create 3 different SLAs, one for each level of difficulty for any given ticket sent in by customers. For the name type "Sev-A, make "Grace period" and hour, and "Scedule" 24/7, then click "Add plan". For the other SLAs, set them up as shown in the examples below.
 <br />
 
 <p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/QrKXIMB.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/ycgZcnm.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/07fc4yM.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>TEXT
+<p align="center"><strong>Now head to "Help Topics" under "Manage", then click "add new help topic" and add the help topics in as shown below, and change "parent topic" to "report a problem".
 <br />
 
 <p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/dgEkBwF.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/iISw0BH.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/q41Uoxr.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/EY4XDLN.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong><img src="https://i.imgur.com/WBTiDxi.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>TEXT
-<br />
-
-<p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
+<p align="center"><strong>Congrats! You've set up OsTicket! This is valuable knowledge that can help you in IT, customer support, and beyond. Knowing how to configure and manage a ticketing system is a great skill that can set you apart in troubleshooting and workflow management.
 </p>
-<p>
-<p align="center"><strong>TEXT
-</p>
-<br />
-
-<p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
-</p>
-<p>
-<p align="center"><strong>TEXT
-<br />
-
-<p>
-<p align="center"><strong><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Post Install Steps"/>
-</p>
-<p>
-<p align="center"><strong>TEXT
 <br />
