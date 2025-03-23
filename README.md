@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-An easy to follow tutorial on the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+An easy-to-follow tutorial on the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -25,7 +25,7 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 <p align="center"><strong><img src="https://i.imgur.com/Fe9kTqs.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>For the name, type in "Surpreme Admin", then click "Permissions" above. Give the role every permission and hit "add role".
+<p align="center"><strong>For the name, type in "Supreme Admin", then click "Permissions" above. Give the role every permission and hit "add role".
 </p>
 <br />
 
@@ -34,7 +34,7 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 <p align="center"><strong><img src="https://i.imgur.com/pjJGUGh.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>Next we'll configure departments. Click "Departments", then hit "add new department". Set the parent to "top-level department", and type in "SysAdmin" for the name. Scroll down and click "Create dept".
+<p align="center"><strong>Next we'll configure departments. Click "Departments", then hit "Add new department". Set the parent to "top-level department", and type in "SysAdmin" for the name. Scroll down and click "Create dept".
 <br />
 
 <p>
@@ -42,7 +42,7 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 <p align="center"><strong><img src="https://i.imgur.com/3ieBfyg.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>Now we'll configure teams. hit "teams", then "create new team". Type in "Online Banking" for the name and click "create team".
+<p align="center"><strong>Now we'll configure teams. hit "teams", then "create new team". Type in "Online Banking" for the name and click "Create Team".
 <br />
 
 <p>
@@ -50,7 +50,7 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 <p align="center"><strong><img src="https://i.imgur.com/D3LMBS5.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>Click "Settings", then "users" to make sure the "Registration Required" box is unchecked to allow users who aren't signed in to create help tickets.
+<p align="center"><strong>Click "Settings", then "Users" to make sure the "Registration Required" box is unchecked to allow users who aren't signed in to create help tickets.
 </p>
 <br />
 
@@ -81,7 +81,7 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 <p align="center"><strong><img src="https://i.imgur.com/DCmW1Wb.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong> Create a second account. Under "access" Click the "select department" dropdown and choose "support", then on the "select role" dropdown choose "view only" and click "create".
+<p align="center"><strong> Create a second account. Under "Access" Click the "select department" dropdown and choose "support", then on the "select role" dropdown choose "view only" and click "create".
 <br />
 
 <p>
@@ -89,7 +89,7 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 <p align="center"><strong><img src="https://i.imgur.com/JhSjwHM.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>Head back to the agents tab click one of the users you created, then click "set password. Uncheck the 2 boxes and type in a password, be sure to write it down, then click update. Do the same for the other account you created aswell.
+<p align="center"><strong>Head back to the agents tab click one of the users you created, then click "Set password". Uncheck the 2 boxes and type in a password, be sure to write it down, then click update. Do the same for the other account you created as well.
 <br />
 
 <p>
@@ -112,7 +112,7 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 <p align="center"><strong><img src="https://i.imgur.com/6QntZDN.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>Now head back to "admin panel", click "manage", "SLA", and "add new SLA plan".
+<p align="center"><strong>Now head back to "the admin panel", click "manage", "SLA", and "add new SLA plan".
 <br />
 
 <p>
@@ -121,7 +121,7 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 
 </p>
 <p>
-<p align="center"><strong>We're going to create 3 different SLAs, one for each level of difficulty for any given ticket sent in by customers. For the name type "Sev-A, make "Grace period" and hour, and "Scedule" 24/7, then click "Add plan". For the other SLAs, set them up as shown in the examples below.
+<p align="center"><strong>We're going to create 3 different SLAs, one for each level of difficulty for any given ticket sent in by customers. For the name type "Sev-A, make "Grace period" an hour, and "Schedule" 24/7, then click "Add plan". For the other SLAs, set them up as shown in the examples below.
 <br />
 
 <p>
@@ -130,7 +130,7 @@ We'll get started with configuring roles. First, get signed into OsTicket, click
 <p align="center"><strong><img src="https://i.imgur.com/07fc4yM.png" height="80%" width="80%" alt="Post Install Steps"/>
 </p>
 <p>
-<p align="center"><strong>Now head to "Help Topics" under "Manage", then click "add new help topic" and add the help topics in as shown below, and change "parent topic" to "report a problem".
+<p align="center"><strong>Now head to "Help Topics" under "Manage", then click "add new help topic" add the help topics as shown below, and change "parent topic" to "report a problem".
 <br />
 
 <p>
